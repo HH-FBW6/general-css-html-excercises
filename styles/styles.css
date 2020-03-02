@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	background-color: bisque;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+p,
+h1,
+div {
+	margin: 5px;
+	background-color: lightcoral;
+}
