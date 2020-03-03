@@ -19,8 +19,9 @@ I've already added some styles and margin to give the `<div>`, `<h1>`, `<h2>` an
 #### Aligning block elements
 
 1. Create a `<div>` element
-2. Give it a dimension of `50%`
-3. Centre it on the page
+2. Give it a width of `50%`
+3. Give it a height of `200px`
+4. Centre it on the page
 
 ## Task 2
 
