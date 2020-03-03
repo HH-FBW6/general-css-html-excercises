@@ -58,7 +58,7 @@ I've already added some styles and margin to give the `<div>`, `<h1>` and `<p>` 
 
 Research: [https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align)
 
-5. To fix this, apply the CSS `vertical-align: top` to the child container.
+6. To fix this, apply the CSS `vertical-align: top` to the child container.
 
 ## Task 4 ##
 
