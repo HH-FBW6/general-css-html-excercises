@@ -10,7 +10,7 @@ To run the live server, run `npm run serve`
 
 ## Notice
 
-I've already added some styles and margin to give the `<div>`, `<h1>`, `<h2>` and `<p>` tags better visibility. This is by design.
+I've already added some styles and margin to give the `<div>`, `<h1>` and `<p>` tags better visibility. This is by design.
 
 ## Task
 
