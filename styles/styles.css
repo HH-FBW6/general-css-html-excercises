@@ -5,8 +5,11 @@ body {
 }
 
 p,
-h1,
 div {
 	margin: 5px;
 	background-color: lightcoral;
+}
+
+div > div {
+	background-color: rebeccapurple;
 }

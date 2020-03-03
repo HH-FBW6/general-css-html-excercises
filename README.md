@@ -94,6 +94,6 @@ Research: [https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinato
 
 ## Task 6 ##
 
-1. Taking the above as an example, use a type selector (I call these element selectors) to apply a border of `1px` width and a colour of your choice to all `<div>` and `<p>` and `<h1>` elements.
+1. Taking the above as an example, use a type selector (I call these element selectors) to apply a border of `1px` width and a colour of your choice to all `<div>` and `<p>` elements.
 
 Research: [https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Type_selectors)
