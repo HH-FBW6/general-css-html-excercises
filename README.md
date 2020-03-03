@@ -46,11 +46,11 @@ I've already added some styles and margin to give the `<div>`, `<h1>` and `<p>` 
 </div>
 ```
 
-2. Give the 2 nested `<div>` elements a height of `100px`
+2. Give the nested `<div>` elements a background color of your choice, and a margin which will prevent them from appearing too close to each other
 
-3. Make it so that the nested `<div>` elements appear side by side, rather than on top of each other
+3. Give the 2 nested `<div>` elements a height of `100px`
 
-4. Give the nested `<div>` elements a background color of your choice, and a margin which will prevent them from appearing too close to each other
+4. Make it so that the nested `<div>` elements appear side by side, rather than on top of each other
 
 5. Adjust the height of the first nested `<div>` element, so that it is `200px`.
 
