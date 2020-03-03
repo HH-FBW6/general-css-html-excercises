@@ -10,7 +10,7 @@ To run the live server, run `npm run serve`
 
 ## Notice
 
-I've already added some styles and margin to give the `<div>`, `<h1>` and `<p>` tags better visibility. This is by design.
+I've already added some styles and margin to give the `<div>` and `<p>` tags better visibility. This is by design.
 
 ## Task
 
@@ -46,13 +46,13 @@ I've already added some styles and margin to give the `<div>`, `<h1>` and `<p>` 
 </div>
 ```
 
-2. Give the nested `<div>` elements a background color of your choice, and a margin which will prevent them from appearing too close to each other
+2. Give the 2 nested `<div>` elements a height of `100px` and a width of `100px`
 
-3. Give the 2 nested `<div>` elements a height of `100px`
+3. Give the nested `<div>` elements a background color of your choice, and a margin which will prevent them from appearing too close to each other
 
 4. Make it so that the nested `<div>` elements appear side by side, rather than on top of each other
 
-5. Adjust the height of the first nested `<div>` element, so that it is `200px`.
+5. Adjust the height of the first nested `<div>` element, so that it is `200px`
 
 > Have a look at the page. Notice anything strange? You should see the second `<div>` element aligned to the bottom of the parent container (if you don't, go back to the previous steps to see where you went wrong).
 
@@ -72,7 +72,18 @@ Research: [https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align](http
 </div>
 ```
 
-2. Using the child combinator selector (I prefer the name **first child selector**), write some CSS to target the first nested `<div>` but not the second.
+<div>
+	<div>
+		<div></div>
+		<div></div>
+	</div>
+	<div>
+		<div></div>
+		<div></div>
+	</div>
+</div>
+
+2. Using the child combinator selector (I prefer the name **first child selector**), write some CSS to target only the first nested level of the `<div>` element but not the second.
 
 Research: [https://developer.mozilla.org/en-US/docs/Web/CSS/Child_combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Child_combinator)
 
